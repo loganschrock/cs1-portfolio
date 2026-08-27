@@ -21,4 +21,4 @@ This is my first Python program. It prints a message to the screen.
  - Add comments
 
 ## Author
-Created by Logan Schrock as part of my Com
+Created by Logan Schrock as part of my Computer Science I course-work.
