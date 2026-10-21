@@ -19,5 +19,5 @@ This program asks the user for an error tolerance. Then the program prints pi ap
 - ...
 
 
-##Author
+## Author
 Created by Logan Schrock as part of my Computer Science I coursework.
