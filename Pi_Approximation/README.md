@@ -5,20 +5,18 @@ This program asks the user for an error tolerance. Then the program prints pi ap
 
 
 ## Skills Practiced
-Using while loops
-Using floats
-Using input from the user
-Using long arithmetic (parentheses, exponents, etc.)
+- Using while loops
+- Using floats
+- Using input from the user
+- Using long arithmetic (parentheses, exponents, etc.)
 
 ## What I learned
-...
-...
+- How to use while loops with math included
 
 
 
 ## Future Improvements
-...
-...
+- ...
 
 
 ##Author
